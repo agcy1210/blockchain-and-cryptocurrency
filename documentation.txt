@@ -21,3 +21,7 @@ Genesis Block: It is the starting block to start the blockchain.
 
 SHA-256: It is called Secure Hash Algorithm which produces 256bit hash value
 
+transactions : 
+1) input field -> info about sender
+2) output field -> how much currency sender is giving to another wallet
+3) unique id -> makes them unique and can be used to find them among many
